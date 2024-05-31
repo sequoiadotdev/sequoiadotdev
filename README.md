@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on ADHFS & Lumin <br>🌱Currently learning distributed networking
+🔭 Currently working on Lumin & Kaze <br>🌱Currently learning nothing
 
 
 ## 🌐 Socials:
