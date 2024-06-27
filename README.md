@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on Lumin & Kaze <br>🌱Currently learning nothing
-
+🔭 Currently working on Lumin & Kaze <br>🌱Currently learning nothing<br> Discord -> @photo.png
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/photo_png) 
